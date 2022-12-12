@@ -1,0 +1,72 @@
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\“Большая пачка”.exe.config
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\“Большая пачка”.csprojResolveAssemblyReference.cache
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.AddMaterialsForm.resources
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.EditMaterialsForm.resources
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.ViewMaterialForm.resources
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\_Большая_пачка_.Properties.Resources.resources
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\“Большая пачка”.csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_1.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_10.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_11.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_12.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_13.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_14.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_15.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_16.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_17.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_18.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_19.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_2.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_20.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_21.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_22.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_23.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_24.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_3.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_4.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_5.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_6.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_7.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_8.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\image_9.jpeg
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\Res\materials\picture.png
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\“Большая пачка”.exe
+C:\Users\Командор\Desktop\“Большая пачка”\bin\Debug\“Большая пачка”.pdb
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\“Большая пачка”.exe
+C:\Users\Командор\Desktop\“Большая пачка”\obj\Debug\“Большая пачка”.pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\“Большая пачка”.exe.config
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\“Большая пачка”.exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\“Большая пачка”.pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_1.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_10.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_11.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_12.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_13.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_14.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_15.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_16.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_17.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_18.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_19.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_2.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_20.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_21.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_22.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_23.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_24.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_3.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_4.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_5.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_6.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_7.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_8.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\image_9.jpeg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\Res\materials\picture.png
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\“Большая пачка”.exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\bin\Debug\“Большая пачка”.pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\“Большая пачка”.csprojResolveAssemblyReference.cache
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.AddMaterialsForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.EditMaterialsForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\_Большая_пачка_.Forms.ViewMaterialForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\_Большая_пачка_.Properties.Resources.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\Пробники\“Большая пачка”\obj\Debug\“Большая пачка”.csproj.GenerateResource.Cache
